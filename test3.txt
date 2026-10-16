@@ -1,2 +1,0 @@
-Python Program
-Hello Python World
